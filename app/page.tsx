@@ -26,7 +26,7 @@ const HomePage = () => {
     <section className="bg-gray-50 justify-items-center flex justify-center items-center min-h-screen overflow-hidden dark:bg-gray-900">
       <div className="grid lg:grid-cols-2 container">
         <div className="lg:hidden">
-          <Image src={"/banner.png"} width={900} height={200} alt="loading.." />
+          <Image src={"/Banner.png"} width={900} height={200} alt="loading.." />
         </div>
         <div className="p-8 md:p-12 lg:px-16 lg:py-24 max-w-lg text-center">
           <h2 className="text-2xl font-bold text-start text-gray-900 dark:text-white">
